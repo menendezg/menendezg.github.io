@@ -1,0 +1,12 @@
+p {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 18px;
+}
+
+.font-green {
+    color: #7DFF7A;
+}
+
+.font-yellow {
+    color: yellow;
+}
